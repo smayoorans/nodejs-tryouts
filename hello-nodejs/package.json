@@ -1,0 +1,23 @@
+{
+  "name": "hello-nodejs",
+  "version": "1.0.0",
+  "description": "Hello World project for NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/smayoorans/nodejs-tryouts.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "HelloWorld"
+  ],
+  "author": "Mayooran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smayoorans/nodejs-tryouts/issues"
+  },
+  "homepage": "https://github.com/smayoorans/nodejs-tryouts#readme"
+}
